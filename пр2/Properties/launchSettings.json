@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "пр2": {
+      "commandName": "Project",
+      "commandLineArgs": "-f test.txt -o print"
+    }
+  }
+}
